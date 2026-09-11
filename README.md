@@ -1,2 +1,2 @@
 # smartchoice-insurance
-Smartchoice-insurance website for Jaspreet’sNusinesa
+Smartchoice-insurance website for Jaspreet’s Business
